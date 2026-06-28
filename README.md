@@ -113,10 +113,10 @@ healthcare-powerbi/
 
 ## 👤 Author
 
-**[Your Name]**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
+**Soumen Gupta**  
+📧 soumencse20@gmail.com  
+🔗 [LinkedIn Profile](https://linkedin.com/in/soumenz2)  
+🐙 [GitHub](https://github.com/soumenz2)
 
 ---
 
