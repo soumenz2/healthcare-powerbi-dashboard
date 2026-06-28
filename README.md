@@ -7,7 +7,7 @@ An interactive Power BI dashboard that provides end-to-end visibility into healt
 ## 📊 Dashboard Pages
 
 ### Page 1 – Overview (TAT Summary)
-![Overview Page](Screenshot Detail_page.png)
+[![Overview Page](Screenshot Detail_page.png)](https://github.com/soumenz2/healthcare-powerbi-dashboard/blob/main/Screenshot%20Detail_page.png)
 
 A high-level summary of all lab tests with key KPIs and geographic breakdowns.
 
