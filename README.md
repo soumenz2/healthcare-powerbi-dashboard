@@ -41,7 +41,7 @@ Deep-dive analytics across departments, processing centres, age groups, and hour
 ---
 
 ### Page 3 – Detailed Page (Patient-Level Data)
-![Detailed Page](page3_detailed.png)
+[![Detailed Page](page3_detailed.png)](https://github.com/soumenz2/healthcare-powerbi-dashboard/blob/main/Screenshot%20Detail_page.png)
 
 A granular drill-down table showing individual test records for audit and investigation.
 
