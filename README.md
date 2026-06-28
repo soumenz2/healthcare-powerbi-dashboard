@@ -7,7 +7,7 @@ An interactive Power BI dashboard that provides end-to-end visibility into healt
 ## 📊 Dashboard Pages
 
 ### Page 1 – Overview (TAT Summary)
-![Overview Page](page1_overview.png)
+![Overview Page](Screenshot Detail_page.png)
 
 A high-level summary of all lab tests with key KPIs and geographic breakdowns.
 
