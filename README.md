@@ -28,7 +28,7 @@ A high-level summary of all lab tests with key KPIs and geographic breakdowns.
 ---
 
 ### Page 2 – Detailed Analysis
-![Analysis Page](page2_analysis.png)
+[![Analysis Page](page2_analysis.png)](https://github.com/soumenz2/healthcare-powerbi-dashboard/blob/main/Screenshot%20Visual_page.png)
 
 Deep-dive analytics across departments, processing centres, age groups, and hourly sample flow.
 
